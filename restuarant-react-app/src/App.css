@@ -1,0 +1,15 @@
+.error{
+    padding: 10px;
+    text-align: center;
+    margin-top: 20%;
+    font-size: 60px;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+li a{
+    text-decoration: none;
+    font-size: 20px;
+}
